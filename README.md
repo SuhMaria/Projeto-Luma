@@ -10,12 +10,6 @@ Foram utilizadas as ferramentas de automação Cypress v14.0 com Node.js, o Visu
 **Clone o repositório**
 $ git clone https://github.com/SuhMaria/Projeto-Luma.git
 
-Mude para a branch do teste em questão:
-$ git checkout Teste-Carrinho
-
-Em seguida atualize a branch com o comando:
-$ git pull
-
 1. **Antes de instalar o Cypress, certifique-se de ter o seguinte:**
 Node.js instalado
 
